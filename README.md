@@ -37,9 +37,10 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://github.com/Niama001/and101-project2-starter/blob/99fa8b096b9fe2c1bd4d3276f65d4b5a03dfc97f/and101-project2.gif)' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **your chosen GIF tool**
+
+GIF created with [ScreenToGif]
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
@@ -52,7 +53,7 @@ Here's a place for any other notes on the app, it's creation process, or what yo
 
 ## License
 
-Copyright **yyyy** **your name**
+Copyright 2024 Mymuna
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
