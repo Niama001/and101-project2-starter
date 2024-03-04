@@ -37,7 +37,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://github.com/Niama001/and101-project2-starter/blob/99fa8b096b9fe2c1bd4d3276f65d4b5a03dfc97f/and101-project2.gif)' />
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' />
 
 
 GIF created with [ScreenToGif]
